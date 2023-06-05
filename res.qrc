@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>13/image (1).png</file>
+        <file>13/image (2).png</file>
+        <file>13/image (3).png</file>
+        <file>13/image (4).png</file>
+        <file>13/image (5).png</file>
+        <file>13/image (6).png</file>
+        <file>13/image (7).png</file>
+        <file>13/image (8).png</file>
+        <file>13/image (9).png</file>
+        <file>13/image (10).png</file>
+        <file>13/image (11).png</file>
+        <file>13/image (12).png</file>
+        <file>13/image (13).png</file>
+        <file>13/image (14).png</file>
+        <file>13/image (15).png</file>
+        <file>13/image (16).png</file>
+        <file>13/image (17).png</file>
+        <file>13/image(0).png</file>
+        <file>img/1.ioc</file>
+    </qresource>
+</RCC>
